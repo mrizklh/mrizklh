@@ -2,4 +2,3 @@
 - 🌱 I’m currently learning basic math for computer science and fundamental programming. for the stater, i learn Python and Java, i choose that bc there a lot of third party support for natural language processing in both language. 
 - 💞️ I’m looking to collaborate on the Syntactic Parser in Indonesian Language. the Corenlp for Bahasa Indonesia, in order to do that, i need to understand bahasa at the level of formal semantic, i really need help from everyone who interested to learn/help. i will do this for non-profit for end-user so it is win win solution for everyone. 
 - 📫 How to reach me at my twitter @cogscistud or email me at me@rizki.me
-- bloging in www.rizki.me 
